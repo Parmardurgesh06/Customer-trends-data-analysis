@@ -57,12 +57,6 @@ The dashboard provides insights on:
 
 ---
 
-## 📷 Dashboard Preview
-
-Add a screenshot of your dashboard here.
-
-```text
-Insert dashboard image/screenshot
 🔧 How to Use
 Download the repository.
 Open customer_behavior_dashboard.pbix in Power BI Desktop.
@@ -75,9 +69,10 @@ Business Intelligence
 Customer Analytics
 Dashboard Development
 Data Storytelling
-👨‍💻 Author
 
-Durgesh Parmar
+ ## Author
+
+  Durgesh Parmar
 
 LinkedIn: www.linkedin.com/in/
 parmar-durgesh-67a162351
